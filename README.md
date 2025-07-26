@@ -41,7 +41,7 @@ Este proyecto es una implementación robusta de un sistema de logging y manejo d
 ### Estructura de Directorios
 
 ```
-Proyecto-express/
+express-logging-excepcion/
 ├── app.js              # Archivo principal que:
 │   ├── Configura Express
 │   ├── Inicializa Winston
