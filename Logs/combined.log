@@ -1,6 +1,0 @@
-{"level":"info","message":"Servidor EXPRESS corriendo en el puerto: 3000 http://localhost:3000","timestamp":"2025-07-25 22:52:19"}
-{"level":"info","message":"Probar la API en: http://localhost:3000","timestamp":"2025-07-25 22:52:19"}
-{"level":"info","message":"Pruebe rutas: http://localhost:3000/api/saludo, \n    http://localhost:3000/api/error-sincronico, \n    http://localhost:3000/api/error-asincronico, \n    http://localhost:3000/api/inexistente","timestamp":"2025-07-25 22:52:19"}
-{"level":"info","message":"Servidor EXPRESS corriendo en el puerto: 3000 http://localhost:3000","timestamp":"2025-07-25 23:10:33"}
-{"level":"info","message":"Probar la API en: http://localhost:3000","timestamp":"2025-07-25 23:10:33"}
-{"level":"info","message":"Pruebe rutas: http://localhost:3000/api/saludo, \n    http://localhost:3000/api/error-sincronico, \n    http://localhost:3000/api/error-asincronico, \n    http://localhost:3000/api/inexistente","timestamp":"2025-07-25 23:10:33"}
